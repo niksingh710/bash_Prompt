@@ -4,7 +4,7 @@ Simple Bash Ps1 Variable Editing to make it look a bit nice.
 
 # Installation
 
-`git clone https://github.com/niksingh710/bash_Prompt.git ~/.bash_customPrompt && echo source ~/.bash_custom_prompt/custom_prompt.sh >> ~/.bashrc && exec bash `
+`git clone https://github.com/niksingh710/bash_Prompt.git ~/.bash_customPrompt && echo source ~/.bash_customPrompt/custom_prompt.sh >> ~/.bashrc && exec bash `
 
 # Images
 
