@@ -8,9 +8,9 @@ Simple Bash Ps1 Variable Editing to make it look a bit nice.
 
 # Images
 
-![Image 1](https://github.com/niksingh710/bash_prompt/blob/main/1.png?raw=true)
+![Image 1](https://github.com/niksingh710/bash_Prompt/blob/main/1.png?raw=true)
 
-![Image 1](https://github.com/niksingh710/bash_prompt/blob/main/2.png?raw=true)
+![Image 1](https://github.com/niksingh710/bash_Prompt/blob/main/2.png?raw=true)
 
 # Requirements
 
