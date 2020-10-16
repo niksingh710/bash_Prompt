@@ -13,9 +13,9 @@ My favourite is this one Minimal No extra Stuff Git status is there full focus o
 
 # Images
 
-![Image 1](https://github.com/niksingh710/bash_Prompt/blob/forKonsole/assets/images/1.png?raw=true)
+![Image 1](https://github.com/niksingh710/bash_Prompt/blob/minimal/assets/images/1.png?raw=true)
 
-![Image 1](https://github.com/niksingh710/bash_Prompt/blob/forKonsole/assets/images/2.png?raw=true)
+![Image 1](https://github.com/niksingh710/bash_Prompt/blob/minimal/assets/images/2.png?raw=true)
 
 # Requirements
 
