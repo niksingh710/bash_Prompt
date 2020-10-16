@@ -8,6 +8,9 @@ As i Personaly use KDE NEON the terminal it has is Konsole and i love it but it 
 
 `git clone https://github.com/niksingh710/bash_Prompt.git ~/.bash_customPrompt && echo source ~/.bash_customPrompt/custom_prompt.sh >> ~/.bashrc && exec bash `
 
+`cd ~/.bash_customPrompt`
+`git checkout forKonsole && exec bash`
+
 # Images
 
 ![Image 1](https://github.com/niksingh710/bash_Prompt/blob/forKonsole/assets/images/1.png?raw=true)
