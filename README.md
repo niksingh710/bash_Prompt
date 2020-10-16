@@ -2,6 +2,8 @@
 
 Simple Bash Ps1 Variable Editing to make it look a bit nice.
 
+As i Personaly use KDE NEON the terminal it has is Konsole and i love it but it has some issues in representing some character so i removed them here.
+
 # Installation
 
 `git clone https://github.com/niksingh710/bash_Prompt.git ~/.bash_customPrompt && echo source ~/.bash_customPrompt/custom_prompt.sh >> ~/.bashrc && exec bash `
