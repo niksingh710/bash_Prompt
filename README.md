@@ -45,3 +45,7 @@ Seeing available branches
 To try a branch
 
 `git checkout <branchName> && exec bash`
+
+# Have New Ideas or Questions?
+
+[Contact Me](https://t.me/niksingh710)
