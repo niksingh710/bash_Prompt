@@ -13,7 +13,7 @@ cLYellow="\e[93m"
 cLRed="\e[91m"
 cLCyan="\e[96m"
 
-cGREETING="$cLGrey $aBold$cLGreen$(whoami)$aNormal$cLYellow $cDGrey $(date +"%A %B %Y %Z")$aNormal\n"
+cGREETING="$cLGrey $aBold$cLGreen$(whoami)$aNormal$cLYellow$cDGrey $(date +"%A %B %Y %Z")$aNormal\n"
 echo -e "$cGREETING"
 alias clear='clear && echo -e "$cGREETING"'
 
@@ -103,4 +103,4 @@ function parse_git_dirty() {
 	fi
 }
 
-export PS1="$(getStatus) $(getIcon) $aNormal$cLCyan$aBold\W$aNormal $aBold$cLYellow\`parse_git_branch\`$cLCyan $aNormal \@\n>"
+export PS1="$(getStatus) $(getIcon) $aNormal$cLCyan$aBold\W$aNormal $aBold$cLYellow\`parse_git_branch\`$cLCyan$aNormal \@\n>"
