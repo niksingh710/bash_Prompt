@@ -36,7 +36,7 @@ How to ?
 
 Navigating to directory.
 
-`cd ~/.bash_customPrompt/`
+`cd ~/Personal/.bash_customPrompt/`
 
 Seeing available branches
 
